@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Prediction Model
+## 🍷 Wine Quality Prediction Model
 
 A Machine Learning project to predict the quality of wine using physicochemical properties. The model analyzes features such as acidity, alcohol content, pH, and other chemical attributes to estimate the wine’s quality. :contentReference[oaicite:0]{index=0}
 
